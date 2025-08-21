@@ -37,6 +37,8 @@ GIF created with CloudConvert.
 
 ## Notes
 
+The site is hosted on netlify : https://keen-lily-42f827.netlify.app/
+
 Describe any challenges encountered while building the app: 
 - Managing state across different components
 - Styling responsive design for different screen sizes
