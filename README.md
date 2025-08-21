@@ -31,7 +31,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='Screen Recording 2025-08-20 162229.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Recording 2025-08-21 141234.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with CloudConvert.
 
